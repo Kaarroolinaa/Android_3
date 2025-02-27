@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android_3</string>
+    <string name="prompt_select_book">Оберіть книгу</string>
 </resources>
